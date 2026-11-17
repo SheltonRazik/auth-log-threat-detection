@@ -1,0 +1,6 @@
+attack,brute_force,password_spray,impossible_travel,unknown_source_spike,anomaly_model,any detector
+brute_force,6/6,-,-,1/6,2/6,6/6
+password_spray,-,4/4,2/4,4/4,-,4/4
+credential_stuffing,-,-,1/2,2/2,-,2/2
+takeover_foreign,-,-,8/8,-,-,8/8
+admin_off_hours,-,-,-,-,5/5,5/5

@@ -1,0 +1,112 @@
+detector,alert_key,events,attack_events,incidents,true_alert
+anomaly_model,alex.brown 2026-10-18,1,0,,False
+anomaly_model,alex.cohen 2026-10-20,1,0,,False
+anomaly_model,alex.cohen 2026-10-22,2,2,AD-2,True
+anomaly_model,alex.cohen 2026-10-30,1,0,,False
+anomaly_model,alex.garcia 2026-10-26,1,0,,False
+anomaly_model,alex.garcia 2026-10-28,1,0,,False
+anomaly_model,alex.ito 2026-10-23,1,0,,False
+anomaly_model,alex.ito 2026-10-26,1,0,,False
+anomaly_model,alex.ito 2026-10-30,1,0,,False
+anomaly_model,blake.tanaka 2026-10-21,1,1,AD-3,True
+anomaly_model,blake.tanaka 2026-10-26,1,0,,False
+anomaly_model,casey.rossi 2026-10-28,1,0,,False
+anomaly_model,dana.moore 2026-10-15,1,0,,False
+anomaly_model,dana.moore 2026-10-26,1,0,,False
+anomaly_model,dana.moore 2026-10-27,3,0,,False
+anomaly_model,dana.nash 2026-10-17,1,1,BF-1,True
+anomaly_model,frankie.evans 2026-10-21,1,0,,False
+anomaly_model,gray.silva 2026-10-16,1,0,,False
+anomaly_model,harper.ali 2026-10-21,1,0,,False
+anomaly_model,harper.hall 2026-10-17,2,2,AD-1,True
+anomaly_model,harper.hall 2026-10-18,1,0,,False
+anomaly_model,harper.hall 2026-10-26,1,0,,False
+anomaly_model,harper.owens 2026-10-19,1,0,,False
+anomaly_model,harper.reyes 2026-10-23,1,0,,False
+anomaly_model,harper.silva 2026-10-15,1,0,,False
+anomaly_model,jamie.ito 2026-10-22,1,0,,False
+anomaly_model,jamie.smith 2026-10-15,1,0,,False
+anomaly_model,jamie.walker 2026-10-15,1,0,,False
+anomaly_model,jesse.kim 2026-10-22,2,0,,False
+anomaly_model,jordan.reed 2026-10-16,1,0,,False
+anomaly_model,jordan.reed 2026-10-26,1,0,,False
+anomaly_model,jordan.reed 2026-10-27,2,0,,False
+anomaly_model,jordan.reed 2026-10-28,1,0,,False
+anomaly_model,jordan.reed 2026-10-29,2,0,,False
+anomaly_model,jordan.reed 2026-10-30,1,0,,False
+anomaly_model,kai.silva 2026-10-18,1,1,BF-2,True
+anomaly_model,lee.silva 2026-10-20,1,0,,False
+anomaly_model,lee.silva 2026-10-27,1,0,,False
+anomaly_model,lee.young 2026-10-15,1,0,,False
+anomaly_model,max.walker 2026-10-28,1,0,,False
+anomaly_model,morgan.diaz 2026-10-25,1,1,AD-4,True
+anomaly_model,morgan.diaz 2026-10-28,2,0,,False
+anomaly_model,morgan.hall 2026-10-26,1,0,,False
+anomaly_model,noel.klein 2026-10-22,1,0,,False
+anomaly_model,noel.owens 2026-10-15,1,0,,False
+anomaly_model,noel.silva 2026-10-22,1,0,,False
+anomaly_model,noel.silva 2026-10-26,1,0,,False
+anomaly_model,parker.ali 2026-10-21,3,0,,False
+anomaly_model,parker.ali 2026-10-23,1,1,AD-5,True
+anomaly_model,parker.tanaka 2026-10-26,1,0,,False
+anomaly_model,quinn.moore 2026-10-26,1,0,,False
+anomaly_model,quinn.smith 2026-10-19,1,0,,False
+anomaly_model,sky.diaz 2026-10-15,1,0,,False
+anomaly_model,sky.olsen 2026-10-16,1,0,,False
+anomaly_model,taylor.cohen 2026-10-15,1,0,,False
+anomaly_model,taylor.cohen 2026-10-22,1,0,,False
+anomaly_model,taylor.cohen 2026-10-26,2,0,,False
+anomaly_model,taylor.cohen 2026-10-27,1,0,,False
+anomaly_model,taylor.ito 2026-10-30,1,0,,False
+anomaly_model,taylor.smith 2026-10-16,1,0,,False
+anomaly_model,taylor.smith 2026-10-20,1,0,,False
+anomaly_model,taylor.smith 2026-10-23,1,0,,False
+anomaly_model,taylor.smith 2026-10-24,1,0,,False
+anomaly_model,taylor.smith 2026-10-27,1,0,,False
+anomaly_model,taylor.smith 2026-10-28,1,0,,False
+anomaly_model,taylor.smith 2026-10-29,1,0,,False
+anomaly_model,taylor.smith 2026-10-30,2,0,,False
+anomaly_model,val.cohen 2026-10-22,1,0,,False
+anomaly_model,val.owens 2026-10-15,1,0,,False
+anomaly_model,wes.kim 2026-10-26,1,0,,False
+anomaly_model,wes.klein 2026-10-16,3,0,,False
+anomaly_model,wes.nash 2026-10-22,1,0,,False
+brute_force,198.18.10.216 > dana.nash,74,74,BF-1,True
+brute_force,198.18.125.118 > alex.brown,52,52,BF-5,True
+brute_force,198.18.228.163 > sam.price,92,92,BF-6,True
+brute_force,198.18.252.192 > toni.klein,135,135,BF-3,True
+brute_force,198.18.72.123 > cameron.olsen,170,170,BF-4,True
+brute_force,198.19.68.126 > kai.silva,127,127,BF-2,True
+impossible_travel,alex.kim US>MX,1,1,PS-3,True
+impossible_travel,avery.price MX>US,1,0,,False
+impossible_travel,avery.price US>MX,1,1,CS-1,True
+impossible_travel,cameron.walker US>SG,1,0,,False
+impossible_travel,casey.novak US>ZA,1,0,,False
+impossible_travel,dana.brown NL>US,1,0,,False
+impossible_travel,dana.brown US>NL,1,1,TO-4,True
+impossible_travel,dana.young US>NL,1,1,CS-1,True
+impossible_travel,eli.moore US>MX,1,1,TO-1,True
+impossible_travel,eli.olsen CA>NL,1,1,TO-8,True
+impossible_travel,frankie.owens BR>US,1,0,,False
+impossible_travel,harper.owens US>VN,1,1,TO-7,True
+impossible_travel,jesse.cohen US>VN,1,1,TO-2,True
+impossible_travel,kai.kim US>VN,3,0,,False
+impossible_travel,kai.kim US>ZA,1,1,PS-1,True
+impossible_travel,kai.kim VN>US,3,0,,False
+impossible_travel,lee.evans ZA>US,1,0,,False
+impossible_travel,morgan.ito NL>US,1,0,,False
+impossible_travel,morgan.ito US>NL,1,1,TO-6,True
+impossible_travel,morgan.silva IN>ZA,1,1,TO-5,True
+impossible_travel,noel.owens US>ZA,1,1,TO-3,True
+impossible_travel,noel.owens ZA>US,1,0,,False
+impossible_travel,sky.price RO>US,4,0,,False
+impossible_travel,wes.novak US>JP,1,0,,False
+password_spray,198.18.103.210,188,188,PS-3,True
+password_spray,198.18.32.95,167,167,PS-1,True
+password_spray,198.19.228.124,105,105,PS-2,True
+password_spray,198.19.230.21,197,197,PS-4,True
+unknown_source_spike,2026-10-15,332,332,"CS-1, PS-3",True
+unknown_source_spike,2026-10-17,147,147,CS-2,True
+unknown_source_spike,2026-10-25,300,300,"BF-3, PS-1",True
+unknown_source_spike,2026-10-26,105,105,PS-2,True
+unknown_source_spike,2026-10-28,196,196,PS-4,True
